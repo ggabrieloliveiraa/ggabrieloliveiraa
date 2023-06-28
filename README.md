@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+- 🏫 Ciência da Computação - Pontifícia Universidade Católica de Minas Gerais | 3º período
+
+
 <!--
 **ggabrieloliveiraa/ggabrieloliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
