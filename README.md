@@ -2,7 +2,7 @@
 
 
 
-- 🏫 Ciência da Computação - Pontifícia Universidade Católica de Minas Gerais | 3º período
+- 🏫 Ciência da Computação - Pontifícia Universidade Católica de Minas Gerais | 4º período
 
 
 <!--
